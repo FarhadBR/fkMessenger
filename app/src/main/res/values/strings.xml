@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">FB Massenger</string>
+    <string name="action_new_message">Message</string>
+    <string name="title_activity_create_or_edit_message">CreateOrEditMessage</string>
+</resources>

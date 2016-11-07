@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="io.fbr.fbmassenger.Activities.MainActivity">
+    <item
+        android:id="@+id/newMessage"
+        android:orderInCategory="100"
+        android:title="@string/action_new_message"
+        app:showAsAction="never" />
+</menu>
